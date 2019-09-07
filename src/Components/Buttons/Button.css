@@ -1,0 +1,29 @@
+.btn{
+	background-color: rebeccapurple;
+	color: white;
+	font-weight: 700;
+	border: 1 solid white;
+	border-radius: 4px;
+	height: 50px;
+	width: 100px;
+}
+
+.btn:hover{
+	background-color: rgb(62, 22, 102);
+	transition: 0.5s;
+}
+
+.toggle-btn{
+	background-color: rgb(57, 161, 161);
+	color: white;
+	font-weight: 700;
+	border: 1 solid white;
+	border-radius: 4px;
+	height: 50px;
+	width: 100px;
+}
+
+.toggle-btn:hover{
+	background-color: rgb(24, 114, 114);
+	transition: 0.5s;
+}
